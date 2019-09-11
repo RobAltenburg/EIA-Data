@@ -1,2 +1,2 @@
 # EIA-Data
-Extract data using the EPA API
+Extract data using the EIA API
